@@ -9,5 +9,9 @@ The 7soulsdeep tracker is a website that keeps track of the 7soulsdeeps tags in 
 7soulsdeep is an interesting new york based street artist who makes poetic graffiti in many cities around the world including Milan, London, Paris, Brescia, Berlin and my city Hong Kong. Where his art went viral 
 and lots of people are searching for his art all around Hong Kong. 
 
+**Website Page:**  
+https://justtjasonn.github.io/7SoulsDeepTracker/
+
 **Credits**  
-www.instagram.com/7soulsdeep 
+- www.instagram.com/7soulsdeep
+- https://leafletjs.com/ (For the map)
