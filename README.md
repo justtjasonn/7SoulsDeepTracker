@@ -14,7 +14,7 @@ https://justtjasonn.github.io/7SoulsDeepTracker/
 
 **Notes:**  
 This website is unfinished I'll be adding as much locations and tags as possible, if you find any of his tags around your city then please send me a picture and the coordinates or google map location via email
-(leej70@kgv.hk) or instagram (www.instagram.com/_just__jason__)
+(leej70@kgv.hk) or instagram (www.instagram.com/_just__jason__ )
 
 **Credits**  
 - www.instagram.com/7soulsdeep
